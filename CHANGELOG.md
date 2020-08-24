@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/bissolli/release-it/compare/v1.2.13...v1.3.0) (2020-08-24)
+
+
+### Features
+
+* **address:** new feature ([3e2cf85](https://github.com/bissolli/release-it/commit/3e2cf85e31081ede9b3c3cbdf8086d346f06c951))
+
+
+### Bug Fixes
+
+* just to fix something up ([3f7c262](https://github.com/bissolli/release-it/commit/3f7c2624efd59a917941c76219828d432f826dce))
+
+
+### Improvement
+
+* **ref:** now refactor ([eb4baf7](https://github.com/bissolli/release-it/commit/eb4baf7512d9220b4d453b4ed5f6ce98fa4d921d))
+
+
+### Docs
+
+* docs without title ([41df2c8](https://github.com/bissolli/release-it/commit/41df2c8f495ba01c078fdf9e7f0a88f341945775))
+
 ### [1.2.13](https://github.com/bissolli/release-it/compare/v1.2.11-0...v1.2.13) (2020-08-24)
 
 
