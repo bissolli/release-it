@@ -3,13 +3,12 @@
     {"type":"feat","section":"Features"},
     {"type":"fix","section":"Bug Fixes"},
     {"type":"docs","section":"Docs"},
-    {"type":"style","section":"Docs"},
-    {"type":"improvement","section":"Improvement"},
     {"type":"refactor","section":"Improvement"},
     {"type":"perf","section":"Improvement"},
     {"type":"revert","section":"Revert"},
     {"type":"test","section":"Tests"},
-    {"type":"build","section":"Build System/CI"},
-    {"type":"ci","section":"Build System/CI"}
+    {"type":"build","section":"Others"},
+    {"type":"ci","section":"Others"},
+    {"type":"style","section":"Others"}
   ]
 }
