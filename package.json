@@ -13,7 +13,10 @@
     "nuxt": "^2.14.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^9.1.2",
+    "@commitlint/config-conventional": "^9.1.2",
     "@release-it/conventional-changelog": "^1.1.4",
+    "husky": "^4.2.5",
     "release-it": "^13.6.9"
   }
 }
