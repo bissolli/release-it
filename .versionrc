@@ -1,0 +1,15 @@
+{
+  "types": [
+    {"type":"feat","section":"Features"},
+    {"type":"fix","section":"Bug Fixes"},
+    {"type":"improvement","section":"Improvement"},
+    {"type":"docs","section":"Docs"},
+    {"type":"style","section":"Docs"},
+    {"type":"refactor","section":"Improvement"},
+    {"type":"perf","section":"Performance"},
+    {"type":"revert","section":"Revert"},
+    {"type":"test","section":"Tests"},
+    {"type":"build","section":"Build System/CI"},
+    {"type":"ci","section":"Build System/CI"}
+  ]
+}
