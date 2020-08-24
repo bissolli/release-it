@@ -7,7 +7,7 @@
   },
   "plugins": {
     "@release-it/conventional-changelog": {
-      "preset": "atom",
+      "preset": "ember",
       "infile": "CHANGELOG.md"
     }
   }
