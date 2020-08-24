@@ -18,5 +18,10 @@
     "@release-it/conventional-changelog": "^1.1.4",
     "husky": "^4.2.5",
     "release-it": "^13.6.9"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
