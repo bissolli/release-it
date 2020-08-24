@@ -13,8 +13,8 @@
   },
   "plugins": {
     "@release-it/conventional-changelog": {
-      "preset": "angular",
-      "infile": "TEST.md"
+      "preset": "atom",
+      "infile": "TEST2.md"
     }
   }
 }
