@@ -1,3 +1,5 @@
+## [1.0.7](https://github.com/bissolli/release-it/compare/1.0.6...1.0.7) (2020-08-24)
+
 ## [1.0.6](https://github.com/bissolli/release-it/compare/1.0.5...1.0.6) (2020-08-24)
 
 ## [1.0.5](https://github.com/bissolli/release-it/compare/1.0.4...1.0.5) (2020-08-24)

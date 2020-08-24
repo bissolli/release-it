@@ -4,11 +4,5 @@
   },
   "github": {
     "release": false
-  },
-  "plugins": {
-    "@release-it/conventional-changelog": {
-      "preset": "ember",
-      "infile": "CHANGELOG.md"
-    }
   }
 }
