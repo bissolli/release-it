@@ -13,8 +13,8 @@
   },
   "plugins": {
     "@release-it/conventional-changelog": {
-      "preset": "ember",
-      "infile": "TEST23.md"
+      "preset": "angular",
+      "infile": "TEST232.md"
     }
   }
 }
