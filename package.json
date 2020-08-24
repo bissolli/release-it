@@ -1,6 +1,6 @@
 {
   "name": "my-test",
-  "version": "1.2.11",
+  "version": "1.2.13",
   "description": "Just a test to understand how release-it works",
   "private": true,
   "scripts": {

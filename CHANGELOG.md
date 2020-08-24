@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.13](https://github.com/bissolli/release-it/compare/v1.2.11-0...v1.2.13) (2020-08-24)
+
+
+### Improvement
+
+* **test:** look to the refactor here ([06c7533](https://github.com/bissolli/release-it/commit/06c753379653f57244c1b06ba3747bb636fc3a85))
+
 ### [1.2.11](https://github.com/bissolli/release-it/compare/v1.2.11-0...v1.2.11) (2020-08-24)
 
 
