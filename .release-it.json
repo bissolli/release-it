@@ -1,6 +1,7 @@
 {
   "git": {
     "commitMessage": "chore: release v${version}",
+    "tagAnnotation": "Release v${version}",
     "tagName": "v${version}",
     "requireCleanWorkingDir": false
   },
@@ -9,5 +10,10 @@
   },
   "npm": {
     "publish": false
+  },
+  "plugins": {
+    "@release-it/conventional-changelog": {
+      "preset": "angular"
+    }
   }
 }
